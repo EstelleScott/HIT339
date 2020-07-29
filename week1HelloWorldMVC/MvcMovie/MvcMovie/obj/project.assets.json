@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\Workshop1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\GIT\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\Workshop1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\GIT\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\flame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\Workshop1\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\flame\\Desktop\\UNI\\HIT339 Distributed Development\\GIT\\HIT339\\week1HelloWorldMVC\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
