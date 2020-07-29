@@ -62,3 +62,5 @@ C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloW
 C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.dll
 C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.pdb
 C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\MvcMovie.csproj.CopyComplete
+C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
+C:\Users\flame\Desktop\UNI\HIT339 Distributed Development\GIT\HIT339\week1HelloWorldMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
